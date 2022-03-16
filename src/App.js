@@ -15,7 +15,9 @@ import discordIcon from './styles/discord.svg'
 import twitterIcon from './styles/twitter-round-color.svg'
 import useInterval from 'use-interval'
 import WalletAddress from './components/WalletAddress'
-// import { PresentToAll } from "@mui/icons-material";
+import AOS from 'aos'
+import 'aos/dist/aos.css'
+AOS.init()
 
 export const StyledButton = styled.button`
 
