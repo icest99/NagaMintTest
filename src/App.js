@@ -494,7 +494,7 @@ function App () {
           <div className="inner-text">
             <h2>Naga DAO NFT</h2>
             <p>
-              Naga DAO will have a total of 10K NFTs for members. Whitelists can be
+              Naga DAO 1st release edition will have a total of 1000 NFTs for members. Whitelists can be
               requested by working within the group. March 2nd is the day that
               whitelisters can mint through website for 0.03 ETH and March 3rd for
               Public Sale all NFT will be on Polygon Chain.
